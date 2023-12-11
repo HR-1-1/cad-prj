@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1702295346" />
+    <testcase name="mult_test" classname="tb_dpfpmult" file="/home/pagefault/vlsi/cad/dpfpmult/tb/tb_dpfpmult.py" lineno="50" time="0.0032243728637695312" sim_time_ns="100000.001" ratio_time="31013783.214603964" />
+  </testsuite>
+</testsuites>

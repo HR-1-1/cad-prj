@@ -1,0 +1,76 @@
+
+132. Executing CHECK pass (checking for obvious problems).
+Checking module mk_fpu_multiplier_dp...
+Warning: Wire mk_fpu_multiplier_dp.\receive [69] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [68] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [67] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [66] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [65] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [64] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [63] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [62] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [61] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [60] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [59] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [58] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [57] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [56] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [55] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [54] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [53] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [52] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [51] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [50] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [49] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [48] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [47] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [46] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [45] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [44] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [43] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [42] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [41] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [40] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [39] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [38] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [37] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [36] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [35] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [34] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [33] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [32] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [31] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [30] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [29] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [28] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [27] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [26] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [25] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [24] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [23] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [22] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [21] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [20] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [19] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [18] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [17] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [16] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [15] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [14] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [13] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [12] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [11] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [10] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [9] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [8] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [7] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [6] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [5] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [4] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [3] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [2] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [1] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\receive [0] is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\RDY_send is used but has no driver.
+Warning: Wire mk_fpu_multiplier_dp.\RDY_receive is used but has no driver.
+Found and reported 72 problems.

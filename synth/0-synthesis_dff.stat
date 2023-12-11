@@ -1,0 +1,25 @@
+
+53. Printing statistics.
+
+=== mk_fpu_multiplier_dp ===
+
+   Number of wires:              31974
+   Number of wire bits:          39445
+   Number of public wires:         108
+   Number of public wire bits:    7512
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              36420
+     $_ANDNOT_                    6679
+     $_AND_                       3115
+     $_MUX_                       6346
+     $_NAND_                      1400
+     $_NOR_                       3178
+     $_NOT_                        788
+     $_ORNOT_                      184
+     $_OR_                        6184
+     $_XNOR_                      2346
+     $_XOR_                       3595
+     sky130_fd_sc_hd__dfxtp_2     2605
+

@@ -1,0 +1,1 @@
+old_define_macros = -D simulate -D stim_size=7496191 -D index_size=23 -D FLEN32 -D denormal_support -D rounding_mode=

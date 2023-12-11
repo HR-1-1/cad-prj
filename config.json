@@ -1,0 +1,5 @@
+{
+  "DESIGN_NAME": "mk_dpfpmult",
+  "VERILOG_FILES": "dir::dpfp/*.v",
+  "CLOCK_PERIOD": 10.0
+}
